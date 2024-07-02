@@ -17,7 +17,7 @@ class FM(nn.Module):
       Output shape
         - 2D tensor with shape: ``(batch_size, 1)``.
       References
-        - [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+        - [Factorization Machines](https://sdcast.ksdaemon.ru/wp-content/uploads/2020/02/Rendle2010FM.pdf)
     """
 
     def __init__(self):
